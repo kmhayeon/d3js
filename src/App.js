@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <h1>Bar Chart</h1>
       <BarChart />
-      {/*<h1>Line Chart</h1>*/}
-      {/*<LineChart />*/}
+      <h1>Line Chart</h1>
+      <LineChart />
     </div>
   );
 }
